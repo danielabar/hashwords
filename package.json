@@ -6,7 +6,6 @@
     "hash"
   ],
   "author": "jason@jasontrill.com",
-  "registry": "github",
   "repository": {
     "type": "git",
     "url": "https://github.com/danielabar/hashwords"
